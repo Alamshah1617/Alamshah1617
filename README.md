@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Alamshah1617
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning c++, javascript.
+- 🌱 I’m currently learning Web Decelopment.
+- 🌱 I have good command on C++ and JavaScript.
 - 💞️ I’m looking to collaborate to tech companies for build better career.
-- 📫 you can  reach me on linkedIn prodife ...
+- 📫 you can  reach me on linkedIn profile ...
       here is my profile-----
       www.linkedin.com/in/alamshah1617
 

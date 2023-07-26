@@ -12,12 +12,20 @@ I believe in the power of technology to transform the world positively. With a s
 
 I firmly believe in the open-source community's power and actively contribute to projects that I find interesting and align with my values. Collaboration and sharing knowledge are essential for the growth of the developer community, and I'm proud to be a part of it.
 
+🛠️ Tech Stack
+Programming Languages: C++, HTML, CSS, JavaScript
+Frameworks: Bootstrap, Node.js, React.js
+Database Systems: SQL, MySQL, MongoDB
+Tools, Version Control: VS Code, GitHub, Postman
+Other: Excellent problem-solving skills, strong communication skills
 
-## Connect with Me
+🏆 Achievements
+Awarded for college topper.
 
-Let's connect and collaborate! You can reach me through the following channels:
+📫 How to Reach Me
+You can reach me via:
 
-- Email: alamshah1617@gmail.com
-- LinkedIn: https://linkedin.com/in/alamshah1617
+Email: alamshah1617@gmail.com
+LinkedIn: https://linkedin.com/in/alamshah1617
 
 Thank you for visiting my GitHub page! Feel free to explore my repositories, raise issues, and submit pull requests. Together, let's create a better tech world! 🚀
